@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/hamzic05/package",
+    "authors": [
+        {
+            "name": "Hamid",
+            "email": "hamidzic_juventini@yahoo.co.id",
+            "role": "PHP Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Summarizer\\": "src"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
